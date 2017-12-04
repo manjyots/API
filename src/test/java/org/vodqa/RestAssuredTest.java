@@ -14,6 +14,7 @@ import static com.jayway.restassured.RestAssured.get;
 import static com.jayway.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
+//command -  gradle test
 
 public class RestAssuredTest {
 
